@@ -13,6 +13,8 @@
 
 ### Awards
 
+<img align="right" src="https://stats.deeptrain.net/user/wmh1024?theme=light" />
+
 1. 2023 蓝桥杯CB组省赛 (河北) 🥇
 2. 2023 全国大学生智能汽车竞赛华北赛区 🥈
 3. 2023 CCPC省赛 (河北) 🥉
