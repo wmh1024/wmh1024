@@ -1,16 +1,19 @@
-### Hi there 👋111
+##  👋 Hello I' m wmh!
 
-<!--
-**wmh1024/wmh1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wmh1024&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
-Here are some ideas to get you started:
+- 👨🏻‍💻 Full Stack Developer
+- 📝 鸟欲高飞先振翅，人求上进先读书。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Website
+
+- [HomePage](https://home.wmhwiki.cn)
+- [wmhwiki](https://wmhwiki.cn)
+- [wmh's Note](https://note.wmhwiki.cn)
+
+### Awards
+
+1. 2023 蓝桥杯CB组省赛 (河北) 🥇
+2. 2023 全国大学生智能汽车竞赛华北赛区 🥈
+3. 2023 CCPC省赛 (河北) 🥉
+4. 2022 CCPC省赛 (河北) 🥉
