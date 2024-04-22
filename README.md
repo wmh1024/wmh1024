@@ -5,14 +5,19 @@
 - 👨🏻‍💻 Full Stack Developer
 - 📝 鸟欲高飞先振翅，人求上进先读书。
 
+### Project
+
+- [ywdoc 运维文档](https://ywdoc.cn)
+- [WangAI 智能助手](https://ai.wmhwiki.cn)
+
 ### Website
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmh1024&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
+
 - [wmhwiki 博客](https://wmhwiki.cn)
-- [ywdoc 运维文档](https://ywdoc.cn)
 
 ### Awards
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmh1024&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
 
 1. 2023 蓝桥杯CB组省赛 (河北) 🥇
 2. 2023 全国大学生智能车竞赛华北赛区 🥈
