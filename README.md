@@ -7,9 +7,8 @@
 
 ### Website
 
-- [HomePage](https://home.wmhwiki.cn)
-- [wmhwiki](https://wmhwiki.cn)
-- [wmh's Note](https://note.wmhwiki.cn)
+- [wmhwiki 博客](https://wmhwiki.cn)
+- [运维文档](https://ywdoc.cn)
 
 ### Awards
 
