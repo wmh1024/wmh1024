@@ -15,11 +15,19 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmh1024&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
 
 - [wmhwiki 博客](https://wmhwiki.cn)
+- [wmh's Note 笔记](https://note.wmhwiki.cn)
 
 ### Awards
 
+1、2023 蓝桥杯CB组省赛 (河北) 🥇
 
-1. 2023 蓝桥杯CB组省赛 (河北) 🥇
-2. 2023 全国大学生智能车竞赛华北赛区 🥈
-3. 2023 CCPC省赛 (河北) 🥉
-4. 2022 CCPC省赛 (河北) 🥉
+<a href="https://afdian.net/a/wmh1024"> 
+  <img align="right" src="https://img2.imgtp.com/2024/04/24/TSejIsZz.png" /> 
+</a>
+
+2、2023 全国大学生智能车竞赛华北赛区 🥈
+
+3、2023 CCPC省赛 (河北) 🥉
+
+4、2022 CCPC省赛 (河北) 🥉
+
