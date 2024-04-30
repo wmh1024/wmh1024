@@ -2,8 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wmh1024&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&locale=cn" />
 
-- 👨🏻‍💻 Full Stack Developer
-- 📝 鸟欲高飞先振翅，人求上进先读书。
+👨🏻‍💻 Full Stack Developer
+
+📝 鸟欲高飞先振翅，人求上进先读书。
 
 ### Project
 
