@@ -17,7 +17,7 @@
 
 - [wmhwiki 博客](https://wmhwiki.cn)
 - [wmh's Note 笔记](https://note.wmhwiki.cn)
-- [wmh Homepage](https://home.wmhwiki.cn)
+- [wmh Homepage 个人引导页](https://home.wmhwiki.cn)
 
 ### Awards
 
