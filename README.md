@@ -13,7 +13,9 @@
 
 ### Website
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmh1024&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
+<a href="https://afdian.net/a/wmh1024"> 
+  <img align="right" src="https://img2.imgtp.com/2024/04/24/TSejIsZz.png" /> 
+</a>
 
 - [wmhwiki 博客](https://wmhwiki.cn)
 - [wmh's Note 笔记](https://note.wmhwiki.cn)
@@ -21,9 +23,8 @@
 
 ### Awards
 
-<a href="https://afdian.net/a/wmh1024"> 
-  <img align="right" src="https://img2.imgtp.com/2024/04/24/TSejIsZz.png" /> 
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmh1024&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
+
 
 1. 2024 蓝桥杯CB组省赛 (河北) 🥇
 2. 2023 蓝桥杯CB组省赛 (河北) 🥇
