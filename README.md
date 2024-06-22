@@ -13,9 +13,9 @@
 
 ### Website
 
-<a href="https://afdian.net/a/wmh1024"> 
+<!--<a href="https://afdian.net/a/wmh1024"> 
   <img align="right" src="https://img2.imgtp.com/2024/04/24/TSejIsZz.png" /> 
-</a>
+</a>-->
 
 - [wmhwiki 博客](https://wmhwiki.cn)
 - [wmh's Note 笔记](https://note.wmhwiki.cn)
