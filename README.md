@@ -1,6 +1,6 @@
 ##  👋 Hello I' m wmh!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wmh1024&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&locale=cn" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wmh1024&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&locale=cn&hide=contribs" />
 
 👨🏻‍💻 Full Stack Developer
 
@@ -13,7 +13,7 @@
 
 ### Website
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmh1024&layout=compact&theme=graywhite&locale=cn" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmh1024&theme=graywhite&locale=cn" />
 
 - [wmhwiki 博客](https://wmhwiki.cn)
 - [wmh's Note 笔记](https://note.wmhwiki.cn)
