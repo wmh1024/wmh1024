@@ -13,7 +13,7 @@
 
 ### Website
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmh1024&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmh1024&layout=compact&theme=graywhite&locale=cn" />
 
 - [wmhwiki 博客](https://wmhwiki.cn)
 - [wmh's Note 笔记](https://note.wmhwiki.cn)
