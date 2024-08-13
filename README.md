@@ -15,7 +15,7 @@
 - [面试喵 - 后端面经八股总结](https://ms.wmhwiki.cn)
 - [运维文档](https://ywdoc.cn)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmh1024&hide_title=true&layout=compact&theme=graywhite&locale=cn" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmh1024&theme=graywhite&locale=cn" />
 
 ### Awards
 
