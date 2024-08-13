@@ -29,5 +29,5 @@
 
 ### PV
 
-<img align="right" src="https://count.getloli.com/get/@wmh1024?theme=asoul" />
+<img src="https://count.getloli.com/get/@wmh1024?theme=asoul" />
 
