@@ -11,10 +11,10 @@
 
 <ul>
   <li><a href="https://about.wmhwiki.cn" target="_blank">wmh 的主页</a></li>
-  <li><a href="https://wmhwiki.cn" target="_blank">wmhwiki 生活博客</a></li>
-  <li><a href="https://note.wmhwiki.cn" target="_blank">wmh's Note 学习笔记</a></li>
+  <li><a href="https://wmhwiki.cn" target="_blank">wmhwiki 博客</a></li>
+  <li><a href="https://haonote.wmhwiki.cn" target="_blank">编程好记 - IT 编程学习笔记分享</a></li>
   <li><a href="https://ms.wmhwiki.cn" target="_blank">面试喵 - 后端面经八股总结</a></li>
-  <li><a href="https://ywdoc.cn" target="_blank">运维文档</a></li>
+  <li><a href="https://ywdoc.cn" target="_blank">运维文档 - 让安装、部署更简单</a></li>
 </ul>
 
 
