@@ -30,7 +30,3 @@
 6. 2022 CCPC省赛 (河北) 🥉
 7. 2024 阿里云社区专家博主
 
-### PV
-
-<img src="https://count.getloli.com/get/@wmh1024?theme=gelbooru" />
-
