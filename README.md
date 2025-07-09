@@ -11,6 +11,7 @@
 
 <ul>
   <li><a href="https://wmhwiki.cn" target="_blank">wmhwiki 博客</a></li>
+  <li><a href="https://haonote.wmhwiki.cn" target="_blank">编程好记 - IT 编程学习笔记分享</a></li>
 </ul>
 
 
