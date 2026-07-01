@@ -1,7 +1,5 @@
 ##  👋 Hello I' m wmh!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wmh1024&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&locale=cn&hide=contribs" />
-
 👨🏻‍💻 Full Stack Developer
 
 📝 鸟欲高飞先振翅，人求上进先读书。
@@ -14,8 +12,6 @@
   <li><a href="https://haonote.wmhwiki.cn" target="_blank">编程好记 - IT 编程学习笔记分享</a></li>
 </ul>
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmh1024&theme=graywhite&locale=cn" />
 
 ### Awards
 
